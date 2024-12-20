@@ -1,4 +1,4 @@
-# ArSL-GraduationProject
+# ArSL-Project
 This repository contains an implementation of a machine learning model designed to recognize Arabic Sign Language (ARSL) gestures. The project leverages a deep learning approach to classify Arabic Sign Language signs, including both numbers, letters, and a set of 20 words, using a Bidirectional Long Short-Term Memory (BiLSTM) model.
 
 ## Introduction
